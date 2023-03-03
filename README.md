@@ -1,6 +1,6 @@
 # Práctica RabbitMQ con SpringBoot
 
-** *Tomado de https://www.youtube.com/playlist?list=PLGRDMO4rOGcMh2fAMOnwuBMDa8PxiKWoN
+**Tomado de https://www.youtube.com/playlist?list=PLGRDMO4rOGcMh2fAMOnwuBMDa8PxiKWoN
 
 ## Construido con 🛠️
 
